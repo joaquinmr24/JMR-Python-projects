@@ -63,7 +63,7 @@ def sol_de_mayo():
     jm_turtle.end_fill()
 def letters():
     jm_turtle.color('white')
-    jm_turtle.write("BANDERA ARGENTINA", align="center", font=(Times New Roman, 16, "bold"))
+    jm_turtle.write("BANDERA ARGENTINA", align="center", font=(None, 16, "bold"))
 
 
 # ZONA DE EJECUCIÓN
